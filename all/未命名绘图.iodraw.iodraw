@@ -38,7 +38,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="35VPUn62P4AnA3IQNoFh-17" value="弹窗选择" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="35VPUn62P4AnA3IQNoFh-20" value="name" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="820" y="160" width="120" height="60" as="geometry" />
