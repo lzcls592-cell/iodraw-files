@@ -81,7 +81,7 @@
         <mxCell id="35VPUn62P4AnA3IQNoFh-37" value="方式二：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="100" y="670" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="35VPUn62P4AnA3IQNoFh-39" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="35VPUn62P4AnA3IQNoFh-39" value="是否有企业主账号" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="155" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
