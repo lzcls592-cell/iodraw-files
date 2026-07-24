@@ -55,6 +55,9 @@
         <mxCell id="35VPUn62P4AnA3IQNoFh-26" value="授权二&lt;br&gt;新增企业主账号名称输入框" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="310" width="130" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="35VPUn62P4AnA3IQNoFh-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="325" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
