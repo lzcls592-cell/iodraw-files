@@ -12,7 +12,7 @@
         </mxCell>
         <mxCell id="35VPUn62P4AnA3IQNoFh-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="35VPUn62P4AnA3IQNoFh-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="190" as="targetPoint" />
+            <mxPoint x="450" y="195" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="35VPUn62P4AnA3IQNoFh-9" value="登录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="35VPUn62P4AnA3IQNoFh-8">
@@ -80,6 +80,9 @@
         </mxCell>
         <mxCell id="35VPUn62P4AnA3IQNoFh-37" value="方式二：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="100" y="670" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="35VPUn62P4AnA3IQNoFh-39" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="155" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
