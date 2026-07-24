@@ -76,7 +76,10 @@
           <mxGeometry x="720" y="425" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="35VPUn62P4AnA3IQNoFh-36" value="方式一：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="195" y="188" width="70" height="30" as="geometry" />
+          <mxGeometry x="250" y="180" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="35VPUn62P4AnA3IQNoFh-37" value="方式一：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="315" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
