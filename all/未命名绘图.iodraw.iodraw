@@ -12,7 +12,7 @@
         </mxCell>
         <mxCell id="35VPUn62P4AnA3IQNoFh-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="35VPUn62P4AnA3IQNoFh-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="510" y="195" as="targetPoint" />
+            <mxPoint x="460" y="195" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="35VPUn62P4AnA3IQNoFh-9" value="登录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="35VPUn62P4AnA3IQNoFh-8">
