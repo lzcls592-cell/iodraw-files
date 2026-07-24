@@ -63,11 +63,17 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="35VPUn62P4AnA3IQNoFh-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="35VPUn62P4AnA3IQNoFh-30" target="35VPUn62P4AnA3IQNoFh-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="35VPUn62P4AnA3IQNoFh-30" value="name是否正确" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="285" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="35VPUn62P4AnA3IQNoFh-31" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="35VPUn62P4AnA3IQNoFh-31" value="登录成功" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="295" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="35VPUn62P4AnA3IQNoFh-34" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
