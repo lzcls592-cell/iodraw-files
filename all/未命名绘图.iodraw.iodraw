@@ -72,7 +72,7 @@
         <mxCell id="35VPUn62P4AnA3IQNoFh-31" value="登录成功" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="295" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="35VPUn62P4AnA3IQNoFh-34" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="35VPUn62P4AnA3IQNoFh-34" value="登录失败，提醒去巨懂车平台查看企业号名称" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
