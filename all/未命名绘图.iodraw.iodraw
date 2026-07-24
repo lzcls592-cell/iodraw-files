@@ -45,18 +45,24 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="35VPUn62P4AnA3IQNoFh-25" value="授权一" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="330" width="80" height="50" as="geometry" />
+          <mxGeometry x="80" y="300" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="35VPUn62P4AnA3IQNoFh-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="35VPUn62P4AnA3IQNoFh-26">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="355" as="targetPoint" />
+            <mxPoint x="430" y="325" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="35VPUn62P4AnA3IQNoFh-26" value="授权二&lt;br&gt;新增企业主账号名称输入框" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="310" width="130" height="90" as="geometry" />
+          <mxGeometry x="230" y="280" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="35VPUn62P4AnA3IQNoFh-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="35VPUn62P4AnA3IQNoFh-30" target="35VPUn62P4AnA3IQNoFh-31">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="35VPUn62P4AnA3IQNoFh-30" value="name是否正确" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="315" width="120" height="80" as="geometry" />
+          <mxGeometry x="430" y="285" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="35VPUn62P4AnA3IQNoFh-31" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="295" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
