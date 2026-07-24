@@ -45,15 +45,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="35VPUn62P4AnA3IQNoFh-25" value="授权一" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="660" width="80" height="50" as="geometry" />
+          <mxGeometry x="210" y="470" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="35VPUn62P4AnA3IQNoFh-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="35VPUn62P4AnA3IQNoFh-26">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="570" y="685" as="targetPoint" />
+            <mxPoint x="560" y="495" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="35VPUn62P4AnA3IQNoFh-26" value="授权二&lt;br&gt;新增企业主账号名称输入框" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="640" width="130" height="90" as="geometry" />
+          <mxGeometry x="360" y="450" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="35VPUn62P4AnA3IQNoFh-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="35VPUn62P4AnA3IQNoFh-30" target="35VPUn62P4AnA3IQNoFh-31">
           <mxGeometry relative="1" as="geometry" />
@@ -67,19 +67,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="35VPUn62P4AnA3IQNoFh-30" value="name是否正确" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="645" width="120" height="80" as="geometry" />
+          <mxGeometry x="560" y="455" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="35VPUn62P4AnA3IQNoFh-31" value="登录成功" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="655" width="120" height="60" as="geometry" />
+          <mxGeometry x="760" y="465" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="35VPUn62P4AnA3IQNoFh-34" value="登录失败，提醒去巨懂车平台查看企业号名称" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="35VPUn62P4AnA3IQNoFh-36" value="方式一：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="90" y="180" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="35VPUn62P4AnA3IQNoFh-37" value="方式二：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="100" y="670" width="70" height="30" as="geometry" />
+          <mxGeometry x="90" y="480" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="35VPUn62P4AnA3IQNoFh-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="35VPUn62P4AnA3IQNoFh-39" target="35VPUn62P4AnA3IQNoFh-17">
           <mxGeometry relative="1" as="geometry" />
@@ -96,7 +96,7 @@
           <mxGeometry x="450" y="155" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="35VPUn62P4AnA3IQNoFh-41" value="登录失败，提示请使用企业主账号登录" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="325" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
