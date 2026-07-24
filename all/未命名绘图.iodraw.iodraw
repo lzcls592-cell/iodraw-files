@@ -28,7 +28,7 @@
           <mxGeometry x="170" y="168" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="35VPUn62P4AnA3IQNoFh-10" value="巨懂车&lt;br&gt;name1&lt;br&gt;name2&lt;br&gt;...&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="155" width="120" height="90" as="geometry" />
+          <mxGeometry x="390" y="10" width="120" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
