@@ -23,13 +23,8 @@
         <mxCell id="35VPUn62P4AnA3IQNoFh-3" value="授权二" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="170" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="35VPUn62P4AnA3IQNoFh-11" value="巨懂车企业主账号接口" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="35VPUn62P4AnA3IQNoFh-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="450" y="143" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="35VPUn62P4AnA3IQNoFh-10" value="巨懂车&lt;br&gt;name1&lt;br&gt;name2&lt;br&gt;...&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="10" width="120" height="90" as="geometry" />
+        <mxCell id="35VPUn62P4AnA3IQNoFh-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
