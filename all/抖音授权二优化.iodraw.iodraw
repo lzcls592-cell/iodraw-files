@@ -85,7 +85,7 @@
         <mxCell id="VIm4Fhty688d38WjruSN-1" value="是否有两个及以上&lt;div&gt;企业主账号&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="160" width="145" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VIm4Fhty688d38WjruSN-5" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VIm4Fhty688d38WjruSN-5" value="直接匹配登录" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="432.5" y="295" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
