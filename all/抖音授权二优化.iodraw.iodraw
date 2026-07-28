@@ -57,7 +57,7 @@
         <mxCell id="35VPUn62P4AnA3IQNoFh-41" value="登录失败，提示请使用企业主账号登录" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="295" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7tAeWXzhjzRL4UZwZP6J-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7tAeWXzhjzRL4UZwZP6J-1" value="二次确认" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="180" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
