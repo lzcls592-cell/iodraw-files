@@ -63,8 +63,8 @@
         <mxCell id="7tAeWXzhjzRL4UZwZP6J-3" value="登录" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="900" y="180" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VIm4Fhty688d38WjruSN-1" value="是否有两个以上企业主账号" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="435" y="160" width="145" height="80" as="geometry" />
+        <mxCell id="VIm4Fhty688d38WjruSN-1" value="是否有两个以上&lt;div&gt;企业主账号&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="160" width="145" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
