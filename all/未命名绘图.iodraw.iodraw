@@ -15,8 +15,14 @@
         <mxCell id="aaYWOZSE3QZeMs9H2RtU-1" value="用户登录口袋AI账号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="70" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="aaYWOZSE3QZeMs9H2RtU-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aaYWOZSE3QZeMs9H2RtU-2" target="aaYWOZSE3QZeMs9H2RtU-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aaYWOZSE3QZeMs9H2RtU-2" value="登录AI工作台&lt;br&gt;（口袋AI账号key/token）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aaYWOZSE3QZeMs9H2RtU-5" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
