@@ -21,8 +21,19 @@
         <mxCell id="aaYWOZSE3QZeMs9H2RtU-2" value="登录AI工作台&lt;br&gt;（口袋AI账号key/token）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="210" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="aaYWOZSE3QZeMs9H2RtU-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aaYWOZSE3QZeMs9H2RtU-5" target="aaYWOZSE3QZeMs9H2RtU-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aaYWOZSE3QZeMs9H2RtU-9" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aaYWOZSE3QZeMs9H2RtU-8">
+          <mxGeometry x="-0.15" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="aaYWOZSE3QZeMs9H2RtU-5" value="数据专家" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aaYWOZSE3QZeMs9H2RtU-7" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
