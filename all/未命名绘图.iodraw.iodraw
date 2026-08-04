@@ -32,21 +32,14 @@
         <mxCell id="aaYWOZSE3QZeMs9H2RtU-5" value="数据专家Agent" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="350" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="aaYWOZSE3QZeMs9H2RtU-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aaYWOZSE3QZeMs9H2RtU-7" target="aaYWOZSE3QZeMs9H2RtU-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aaYWOZSE3QZeMs9H2RtU-7" value="NL2sql" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aaYWOZSE3QZeMs9H2RtU-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.383;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aaYWOZSE3QZeMs9H2RtU-7" target="aaYWOZSE3QZeMs9H2RtU-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="480" y="520" />
-              <mxPoint x="480" y="373" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aaYWOZSE3QZeMs9H2RtU-11" value="回传数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aaYWOZSE3QZeMs9H2RtU-10">
-          <mxGeometry x="0.016" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="aaYWOZSE3QZeMs9H2RtU-12" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="620" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
