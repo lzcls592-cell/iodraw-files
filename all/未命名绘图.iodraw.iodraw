@@ -63,7 +63,7 @@
             <mxPoint x="520" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aaYWOZSE3QZeMs9H2RtU-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aaYWOZSE3QZeMs9H2RtU-17" value="返回标识，Agent安抚回复" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
