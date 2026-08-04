@@ -21,7 +21,7 @@
         <mxCell id="aaYWOZSE3QZeMs9H2RtU-2" value="登录AI工作台&lt;br&gt;（口袋AI账号key/token）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aaYWOZSE3QZeMs9H2RtU-5" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="aaYWOZSE3QZeMs9H2RtU-5" value="数据专家" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
